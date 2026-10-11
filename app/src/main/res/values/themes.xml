@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.RoguelikeAI" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">#4dd0e1</item>
+        <item name="colorSecondary">#ffd54f</item>
+        <item name="android:statusBarColor">#05070a</item>
+        <item name="android:windowBackground">#0b0f14</item>
+    </style>
+</resources>
